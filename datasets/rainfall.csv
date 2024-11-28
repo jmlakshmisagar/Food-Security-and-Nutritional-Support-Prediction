@@ -1,0 +1,564 @@
+st_code,state/region,year,actual rainfall,normal rainfall
+1,andhra pradesh,2017,868.20,-1
+1,andhra pradesh,2018,663.80,-1
+1,andhra pradesh,2019,899.1,-1
+1,andhra pradesh,2020,1220.5,-1
+1,coastal andhra pradesh,2001,1051.50,-1
+1,coastal andhra pradesh,2002,757.30,-1
+1,coastal andhra pradesh,2003,1118.60,-1
+1,coastal andhra pradesh,2004,933.70,-1
+1,coastal andhra pradesh,2005,1238.90,-1
+1,coastal andhra pradesh,2006,1067.10,-1
+1,coastal andhra pradesh,2007,1093.90,-1
+1,coastal andhra pradesh,2008,1057.10,-1
+1,coastal andhra pradesh,2009,745.00,1011.30
+1,coastal andhra pradesh,2010,1624.90,1011.30
+1,coastal andhra pradesh,2011,835.50,1024.40
+1,coastal andhra pradesh,2012,1183.40,1024.20
+1,coastal andhra pradesh,2013,1081.80,1024.20
+1,coastal andhra pradesh,2014,777.50,1024.20
+1,coastal andhra pradesh,2015,984.80,1024.20
+1,coastal andhra pradesh,2016,909.00,1024.20
+1,rayalseema,2001,860.40,-1
+1,rayalseema,2002,504.40,-1
+1,rayalseema,2003,654.00,-1
+1,rayalseema,2004,655.90,-1
+1,rayalseema,2005,999.20,-1
+1,rayalseema,2006,608.90,-1
+1,rayalseema,2007,934.10,-1
+1,rayalseema,2008,795.10,-1
+1,rayalseema,2009,672.80,677.80
+1,rayalseema,2010,907.10,678.00
+1,rayalseema,2011,642.80,706.10
+1,rayalseema,2012,665.10,706.10
+1,rayalseema,2013,677.20,706.10
+1,rayalseema,2014,523.3**,706.1**
+1,rayalseema,2015,875.50,706.10
+1,rayalseema,2016,555.40,706.10
+2,bihar,2001,1353.90,-1
+2,bihar,2002,1193.30,-1
+2,bihar,2003,1454.80,-1
+2,bihar,2004,1077.00,-1
+2,bihar,2005,913.70,-1
+2,bihar,2006,1000.50,-1
+2,bihar,2007,1466.20,-1
+2,bihar,2008,1306.70,-1
+2,bihar,2009,993.70,1230.70
+2,bihar,2010,941.90,1213.60
+2,bihar,2011,1217.30,1205.60
+2,bihar,2012,924.10,1205.60
+2,bihar,2013,1069.80,1205.60
+2,bihar,2014,1061.00,1205.60
+2,bihar,2015,875.50,1205.60
+2,bihar,2017,1112.00,-1.00
+2,bihar,2018,860.70,-1.00
+2,bihar,2019,1191.2,-1
+2,bihar,2020,1521.4,-1
+2,bihar plains,2016,1158.00,1205.60
+2,bihar plateau,2016,1264.10,1296.30
+3,gujarat,2017,814.80,-1.00
+3,gujarat,2018,485.30,-1.00
+3,gujarat,2019,1067.9,-1
+3,gujarat,2020,1125.4,-1
+3,gujarat region,2001,1007.60,-1
+3,gujarat region,2002,705.40,-1
+3,gujarat region,2003,1259.40,-1
+3,gujarat region,2004,1004.20,-1
+3,gujarat region,2005,1385.40,-1
+3,gujarat region,2006,1458.00,-1
+3,gujarat region,2007,1158.80,-1
+3,gujarat region,2008,932.50,-1
+3,gujarat region,2009,649.40,979.10
+3,gujarat region,2010,1059.80,954.30
+3,gujarat region,2011,903.90,943.40
+3,gujarat region,2012,652.00,943.40
+3,gujarat region,2013,1250.60,943.40
+3,gujarat region,2014,792.30,943.40
+3,gujarat region,2015,677.40,943.40
+3,gujarat region,2016,764.70,956.90
+3,"saurashtra,kutch & diu",2001,532.40,-1
+3,"saurashtra,kutch & diu",2002,402.70,-1
+3,"saurashtra,kutch & diu",2003,733.10,-1
+3,"saurashtra,kutch & diu",2004,498.30,-1
+3,"saurashtra,kutch & diu",2005,638.60,-1
+3,"saurashtra,kutch & diu",2006,702.90,-1
+3,"saurashtra,kutch & diu",2007,892.10,-1
+3,"saurashtra,kutch & diu",2008,572.40,-1
+3,"saurashtra,kutch & diu",2009,616.90,518.10
+3,"saurashtra,kutch & diu",2010,1073.90,519.20
+3,"saurashtra,kutch & diu",2011,725.00,507.00
+3,"saurashtra,kutch & diu",2012,315.30,507.00
+3,"saurashtra,kutch & diu",2013,823.90,507.00
+3,"saurashtra,kutch & diu",2014,467.80,507.00
+3,"saurashtra,kutch & diu",2015,516.30,507.00
+3,"saurashtra,kutch & diu",2016,483.00,511.30
+4,haryana,2017,417.10,-1
+4,haryana,2018,478.30,-1
+4,haryana,2019,351.6,-1
+4,haryana,2020,533,-1
+4,"haryana,chandigarh & delhi",2001,616.90,-1
+4,"haryana,chandigarh & delhi",2002,471.80,-1
+4,"haryana,chandigarh & delhi",2003,720.70,-1
+4,"haryana,chandigarh & delhi",2004,524.00,-1
+4,"haryana,chandigarh & delhi",2005,586.90,-1
+4,"haryana,chandigarh & delhi",2006,377.10,-1
+4,"haryana,chandigarh & delhi",2007,479.90,-1
+4,"haryana,chandigarh & delhi",2008,633.00,-1
+4,"haryana,chandigarh & delhi",2009,350.40,567.50
+4,"haryana,chandigarh & delhi",2010,598.10,563.50
+4,"haryana,chandigarh & delhi",2011,433.00,562.80
+4,"haryana,chandigarh & delhi",2012,313.60,562.80
+4,"haryana,chandigarh & delhi",2013,461.30,562.80
+4,"haryana,chandigarh & delhi",2014,305.50,562.80
+4,"haryana,chandigarh & delhi",2015,437.80,562.80
+4,"haryana,chandigarh & delhi",2016,398.70,562.80
+5,coastal karnataka,2001,3529.30,-1
+5,coastal karnataka,2002,2920.40,-1
+5,coastal karnataka,2003,3086.50,-1
+5,coastal karnataka,2004,3061.60,-1
+5,coastal karnataka,2005,3274.80,-1
+5,coastal karnataka,2006,3865.90,-1
+5,coastal karnataka,2007,3904.70,-1
+5,coastal karnataka,2008,3050.80,-1
+5,coastal karnataka,2009,3798.20,3613.20
+5,coastal karnataka,2010,4007.50,3613.20
+5,coastal karnataka,2011,4146.40,3526.30
+5,coastal karnataka,2012,3395.00,3526.30
+5,coastal karnataka,2013,4044.70,3526.30
+5,coastal karnataka,2014,3563.90,3526.30
+5,coastal karnataka,2015,2760.50,3526.30
+5,coastal karnataka,2016,2619.70,3526.30
+5,karnataka,2017,1111.70,-1.00
+5,karnataka,2018,1076.70,-1.00
+5,karnataka,2019,1422.3,-1
+5,karnataka,2020,1419.1,-1
+5,north interior karnataka,2001,586.50,-1
+5,north interior karnataka,2002,556.30,-1
+5,north interior karnataka,2003,473.60,-1
+5,north interior karnataka,2004,644.50,-1
+5,north interior karnataka,2005,856.10,-1
+5,north interior karnataka,2006,628.00,-1
+5,north interior karnataka,2007,788.50,-1
+5,north interior karnataka,2008,700.50,-1
+5,north interior karnataka,2009,977.10,720.20
+5,north interior karnataka,2010,857.30,720.40
+5,north interior karnataka,2011,620.20,740.30
+5,north interior karnataka,2012,529.40,740.30
+5,north interior karnataka,2013,723.40,740.30
+5,north interior karnataka,2014,756.70,740.30
+5,north interior karnataka,2015,550.10,740.30
+5,north interior karnataka,2016,625.00,740.30
+5,south interior karnataka,2001,948.10,-1
+5,south interior karnataka,2002,869.10,-1
+5,south interior karnataka,2003,817.90,-1
+5,south interior karnataka,2004,1028.30,-1
+5,south interior karnataka,2005,1357.00,-1
+5,south interior karnataka,2006,951.00,-1
+5,south interior karnataka,2007,1229.50,-1
+5,south interior karnataka,2008,1105.70,-1
+5,south interior karnataka,2009,1177.20,1014.70
+5,south interior karnataka,2010,1308.70,1029.50
+5,south interior karnataka,2011,1040.50,1019.20
+5,south interior karnataka,2012,832.00,1019.20
+5,south interior karnataka,2013,1110.60,1019.20
+5,south interior karnataka,2014,1184.10,1019.20
+5,south interior karnataka,2015,1086.40,1019.20
+5,south interior karnataka,2016,687.40,1019.20
+6,madhya pradesh,2017,800.00,-1.00
+6,madhya pradesh,2018,897.30,-1.00
+6,madhya pradesh,2019,1446.8,-1
+6,madhya pradesh,2020,1102.1,-1
+6,madhya pradesh east,2001,1306.10,-1
+6,madhya pradesh east,2002,1075.70,-1
+6,madhya pradesh east,2003,1532.50,-1
+6,madhya pradesh east,2004,946.80,-1
+6,madhya pradesh east,2005,1408.40,-1
+6,madhya pradesh east,2006,1007.60,-1
+6,madhya pradesh east,2007,864.10,-1
+6,madhya pradesh east,2008,989.80,-1
+6,madhya pradesh east,2009,910.50,1229.20
+6,madhya pradesh east,2010,966.30,1220.40
+6,madhya pradesh east,2011,1220.70,1169.40
+6,madhya pradesh east,2012,1096.90,1169.40
+6,madhya pradesh east,2013,1521.90,1169.40
+6,madhya pradesh east,2014,925.00,1169.40
+6,madhya pradesh east,2015,943.40,1169.40
+6,madhya pradesh east,2016,1340.00,1169.40
+6,madhya pradesh west,2001,829.70,-1
+6,madhya pradesh west,2002,754.70,-1
+6,madhya pradesh west,2003,1011.00,-1
+6,madhya pradesh west,2004,839.70,-1
+6,madhya pradesh west,2005,784.40,-1
+6,madhya pradesh west,2006,1140.60,-1
+6,madhya pradesh west,2007,887.80,-1
+6,madhya pradesh west,2008,747.70,-1
+6,madhya pradesh west,2009,797.20,987.80
+6,madhya pradesh west,2010,817.90,987.60
+6,madhya pradesh west,2011,1062.30,956.30
+6,madhya pradesh west,2012,1012.40,956.30
+6,madhya pradesh west,2013,1396.20,956.30
+6,madhya pradesh west,2014,864.80,956.30
+6,madhya pradesh west,2015,1045.40,956.30
+6,madhya pradesh west,2016,1098.00,956.30
+7,madhya maharashtra,2001,866.60,-1.00
+7,madhya maharashtra,2002,711.70,-1.00
+7,madhya maharashtra,2003,740.30,-1.00
+7,madhya maharashtra,2004,883.40,-1.00
+7,madhya maharashtra,2005,1101.60,-1.00
+7,madhya maharashtra,2006,1180.80,-1.00
+7,madhya maharashtra,2007,921.50,-1.00
+7,madhya maharashtra,2008,858.80,-1.00
+7,madhya maharashtra,2009,918.10,850.40
+7,madhya maharashtra,2010,1006.30,850.10
+7,madhya maharashtra,2011,842.90,876.80
+7,madhya maharashtra,2012,664.20,876.80
+7,madhya maharashtra,2013,962.50,876.80
+7,madhya maharashtra,2014,838.00,876.80
+7,madhya maharashtra,2015,629.20,876.80
+7,madhya maharashtra,2016,906.20,876.80
+7,maharashtra,2017,1129.50,-1
+7,maharashtra,2018,976.00,-1
+7,maharashtra,2019,1526.9,-1
+7,maharashtra,2020,1334.3,-1
+7,marathwada,2001,849.10,-1
+7,marathwada,2002,704.80,-1
+7,marathwada,2003,645.20,-1
+7,marathwada,2004,676.50,-1
+7,marathwada,2005,864.30,-1
+7,marathwada,2006,819.30,-1
+7,marathwada,2007,625.60,-1
+7,marathwada,2008,651.10,-1
+7,marathwada,2009,687.50,840.30
+7,marathwada,2010,1039.40,846.30
+7,marathwada,2011,685.70,821.60
+7,marathwada,2012,538.20,821.60
+7,marathwada,2013,887.90,821.60
+7,marathwada,2014,548.90,821.60
+7,marathwada,2015,532.90,821.60
+7,marathwada,2016,949.10,821.60
+7,vidarbha,2001,1107.50,-1
+7,vidarbha,2002,1045.40,-1
+7,vidarbha,2003,1033.10,-1
+7,vidarbha,2004,796.30,-1
+7,vidarbha,2005,1257.70,-1
+7,vidarbha,2006,1276.50,-1
+7,vidarbha,2007,1135.80,-1
+7,vidarbha,2008,855.70,-1
+7,vidarbha,2009,804.20,1104.60
+7,vidarbha,2010,1355.20,1103.30
+7,vidarbha,2011,958.50,1084.50
+7,vidarbha,2012,1090.20,1084.50
+7,vidarbha,2013,1520.20,1084.50
+7,vidarbha,2014,919.00,1084.50
+7,vidarbha,2015,993.60,1084.50
+7,vidarbha,2016,1163.80,1084.50
+8,odisha,2001,1777.50,-1
+8,odisha,2002,1166.60,-1
+8,odisha,2003,1750.60,-1
+8,odisha,2004,1337.60,-1
+8,odisha,2005,1549.70,-1
+8,odisha,2006,1810.00,-1
+8,odisha,2007,1664.90,-1
+8,odisha,2008,1600.40,-1
+8,odisha,2009,1397.80,1472.50
+8,odisha,2010,1332.30,1478.60
+8,odisha,2011,1300.20,1460.50
+8,odisha,2012,1430.20,1460.50
+8,odisha,2013,1632.20,1460.50
+8,odisha,2014,1537.00,1460.50
+8,odisha,2015,1210.00,1460.50
+8,odisha,2016,1253.50,1460.50
+8,odisha,2017,1344.40,-1
+8,odisha,2018,1630.10,-1
+8,odisha,2019,1593.9,-1
+8,odisha,2020,1636.1,-1
+9,punjab,2001,634.20,-1
+9,punjab,2002,446.10,-1
+9,punjab,2003,645.10,-1
+9,punjab,2004,445.10,-1
+9,punjab,2005,603.50,-1
+9,punjab,2006,544.60,-1
+9,punjab,2007,494.30,-1
+9,punjab,2008,708.70,-1
+9,punjab,2009,403.80,648.80
+9,punjab,2010,501.10,641.60
+9,punjab,2011,533.60,635.90
+9,punjab,2012,338.90,635.90
+9,punjab,2013,586.60,635.90
+9,punjab,2014,382.90,635.90
+9,punjab,2015,512.60,635.90
+9,punjab,2016,444.10,635.90
+9,punjab,2017,497.50,-1
+9,punjab,2018,628.90,-1
+9,punjab,2019,653.1,-1
+9,punjab,2020,585.6,-1
+10,rajasthan,2017,493.30,-1
+10,rajasthan,2018,400.80,-1
+10,rajasthan,2019,665,-1
+10,rajasthan,2020,511,-1
+10,rajasthan east,2001,579.70,-1
+10,rajasthan east,2002,307.20,-1
+10,rajasthan east,2003,629.70,-1
+10,rajasthan east,2004,627.50,-1
+10,rajasthan east,2005,617.40,-1
+10,rajasthan east,2006,711.60,-1
+10,rajasthan east,2007,553.50,-1
+10,rajasthan east,2008,627.10,-1
+10,rajasthan east,2009,460.60,678.20
+10,rajasthan east,2010,741.30,684.70
+10,rajasthan east,2011,849.10,671.30
+10,rajasthan east,2012,695.80,671.30
+10,rajasthan east,2013,834.80,671.30
+10,rajasthan east,2014,683.00,671.30
+10,rajasthan east,2015,650.40,671.30
+10,rajasthan east,2016,860.60,671.30
+10,rajasthan west,2001,294.10,-1
+10,rajasthan west,2002,118.90,-1
+10,rajasthan west,2003,386.70,-1
+10,rajasthan west,2004,190.30,-1
+10,rajasthan west,2005,260.30,-1
+10,rajasthan west,2006,362.40,-1
+10,rajasthan west,2007,282.20,-1
+10,rajasthan west,2008,309.70,-1
+10,rajasthan west,2009,166.60,296.90
+10,rajasthan west,2010,473.20,296.40
+10,rajasthan west,2011,426.70,299.20
+10,rajasthan west,2012,318.30,299.20
+10,rajasthan west,2013,389.50,299.20
+10,rajasthan west,2014,302.40,299.20
+10,rajasthan west,2015,458.50,299.20
+10,rajasthan west,2016,347.00,299.20
+11,tamil nadu,2001,785.40,-1
+11,tamil nadu,2002,723.40,-1
+11,tamil nadu,2003,925.00,-1
+11,tamil nadu,2004,1104.60,-1
+11,tamil nadu,2005,1314.00,-1
+11,tamil nadu,2006,911.90,-1
+11,tamil nadu,2007,968.80,-1
+11,tamil nadu,2008,1195.70,-1
+11,tamil nadu,2009,934.40,911.20
+11,tamil nadu,2010,1122.20,908.80
+11,tamil nadu,2011,1013.80,914.40
+11,tamil nadu,2012,708.00,914.40
+11,tamil nadu,2013,742.00,914.40
+11,tamil nadu,2014,913.00,914.40
+11,tamil nadu,2015,1204.60,914.40
+11,tamil nadu,2016,535.20,914.40
+11,tamil nadu,2017,970.90,-1
+11,tamil nadu,2018,801.10,-1
+11,tamil nadu,2019,910.1,-1
+11,tamil nadu,2020,986.3,-1
+12,uttar pradesh,2017,652.10,-1
+12,uttar pradesh,2018,805.60,-1
+12,uttar pradesh,2019,819.6,-1
+12,uttar pradesh,2020,794,-1
+12,uttar pradesh east,2001,1025.60,-1
+12,uttar pradesh east,2002,796.00,-1
+12,uttar pradesh east,2003,1177.10,-1
+12,uttar pradesh east,2004,902.40,-1
+12,uttar pradesh east,2005,828.30,-1
+12,uttar pradesh east,2006,771.50,-1
+12,uttar pradesh east,2007,863.20,-1
+12,uttar pradesh east,2008,1121.90,-1
+12,uttar pradesh east,2009,711.10,1042.00
+12,uttar pradesh east,2010,758.50,1036.20
+12,uttar pradesh east,2011,874.90,1018.60
+12,uttar pradesh east,2012,853.60,1018.60
+12,uttar pradesh east,2013,1041.90,1018.60
+12,uttar pradesh east,2014,701.40,1018.60
+12,uttar pradesh east,2015,603.60,1018.60
+12,uttar pradesh east,2016,871.60,1018.60
+12,uttar pradesh west,2001,696.00,-1
+12,uttar pradesh west,2002,729.10,-1
+12,uttar pradesh west,2003,1129.50,-1
+12,uttar pradesh west,2004,647.20,-1
+12,uttar pradesh west,2005,752.60,-1
+12,uttar pradesh west,2006,510.40,-1
+12,uttar pradesh west,2007,586.10,-1
+12,uttar pradesh west,2008,840.40,-1
+12,uttar pradesh west,2009,552.40,888.80
+12,uttar pradesh west,2010,818.70,885.50
+12,uttar pradesh west,2011,776.00,886.20
+12,uttar pradesh west,2012,582.70,886.20
+12,uttar pradesh west,2013,926.00,886.20
+12,uttar pradesh west,2014,487.00,886.20
+12,uttar pradesh west,2015,586.30,886.20
+12,uttar pradesh west,2016,693.00,886.20
+13,gangetic west bengal,2001,1459.90,-1
+13,gangetic west bengal,2002,1597.50,-1
+13,gangetic west bengal,2003,1457.80,-1
+13,gangetic west bengal,2004,1488.10,-1
+13,gangetic west bengal,2005,1585.40,-1
+13,gangetic west bengal,2006,1587.30,-1
+13,gangetic west bengal,2007,1953.20,-1
+13,gangetic west bengal,2008,1580.60,-1
+13,gangetic west bengal,2009,1322.50,1494.70
+13,gangetic west bengal,2010,1084.40,1492.90
+13,gangetic west bengal,2011,1671.70,1527.20
+13,gangetic west bengal,2012,1258.20,1527.20
+13,gangetic west bengal,2013,1804.70,1527.20
+13,gangetic west bengal,2014,1241.80,1527.20
+13,gangetic west bengal,2015,1508.00,1527.20
+13,gangetic west bengal,2016,1427.00,1527.20
+13,sikkim,2017,2873.60,-1
+13,sikkim,2018,3105.10,-1
+13,"sub-himalayan,west bengal & sikkim",2001,2620.00,-1
+13,"sub-himalayan,west bengal & sikkim",2002,2820.10,-1
+13,"sub-himalayan,west bengal & sikkim",2003,3288.50,-1
+13,"sub-himalayan,west bengal & sikkim",2004,2768.30,-1
+13,"sub-himalayan,west bengal & sikkim",2005,2670.80,-1
+13,"sub-himalayan,west bengal & sikkim",2006,2304.50,-1
+13,"sub-himalayan,west bengal & sikkim",2007,2641.30,-1
+13,"sub-himalayan,west bengal & sikkim",2008,2618.80,-1
+13,"sub-himalayan,west bengal & sikkim",2009,2275.10,2617.00
+13,"sub-himalayan,west bengal & sikkim",2010,2849.30,2600.90
+13,"sub-himalayan,west bengal & sikkim",2011,2360.00,2708.90
+13,"sub-himalayan,west bengal & sikkim",2012,2630.30,2708.90
+13,"sub-himalayan,west bengal & sikkim",2013,2406.10,2708.90
+13,"sub-himalayan,west bengal & sikkim",2014,2322.50,2708.90
+13,"sub-himalayan,west bengal & sikkim",2015,2504.20,2708.90
+13,"sub-himalayan,west bengal & sikkim",2016,2624.80,2708.90
+13,west bengal,2017,1830.00,-1
+13,west bengal,2018,1444.20,-1
+13,west bengal,2019,1733.4,-1
+13,west bengal,2020,2004.7,-1
+14,chattisgarh,2001,*,-1
+14,chattisgarh,2002,*,-1
+14,chattisgarh,2003,1702.70,-1
+14,chattisgarh,2004,1174.30,-1
+14,chattisgarh,2005,1305.10,-1
+14,chattisgarh,2006,1231.50,-1
+14,chattisgarh,2007,1244.10,-1
+14,chattisgarh,2008,1144.00,-1
+14,chattisgarh,2009,859.70,1368.40
+14,chattisgarh,2010,1147.80,1363.30
+14,chattisgarh,2011,1313.00,1290.70
+14,chattisgarh,2012,1366.80,1290.70
+14,chattisgarh,2013,1418.40,1290.70
+14,chattisgarh,2014,1274.80,1290.70
+14,chattisgarh,2015,1135.90,1290.70
+14,chattisgarh,2016,1315.90,1298.90
+14,chattisgarh,2017,1124.50,-1
+14,chattisgarh,2018,1212.10,-1
+14,chattisgarh,2019,1420.4,-1
+14,chattisgarh,2020,1515.6,-1
+15,jharkhand,2001,1397.80,-1
+15,jharkhand,2002,1315.50,-1
+15,jharkhand,2003,1299.00,-1
+15,jharkhand,2004,1153.50,-1
+15,jharkhand,2005,859.40,-1
+15,jharkhand,2006,1356.00,-1
+15,jharkhand,2007,1441.50,-1
+15,jharkhand,2008,1200.60,-1
+15,jharkhand,2009,1061.10,1320.10
+15,jharkhand,2010,803.70,1306.60
+15,jharkhand,2011,1274.80,1296.30
+15,jharkhand,2012,1102.00,1296.30
+15,jharkhand,2013,1253.50,1296.30
+15,jharkhand,2014,1156.60,1296.30
+15,jharkhand,2015,1084.90,1296.30
+15,jharkhand,2017,1165.70,-1
+15,jharkhand,2018,947.10,-1
+15,jharkhand,2019,1137.6,-1
+15,jharkhand,2020,1222.8,-1
+16,uttarakhand,2001,1460.60,-1
+16,uttarakhand,2002,1588.50,-1
+16,uttarakhand,2003,1903.70,-1
+16,uttarakhand,2004,1584.40,-1
+16,uttarakhand,2005,1469.30,-1
+16,uttarakhand,2006,1264.80,-1
+16,uttarakhand,2007,1894.40,-1
+16,uttarakhand,2008,1298.50,-1
+16,uttarakhand,2009,1076.00,1582.60
+16,uttarakhand,2010,1864.30,1564.50
+16,uttarakhand,2011,1708.20,1580.90
+16,uttarakhand,2012,1309.80,1580.90
+16,uttarakhand,2013,1735.30,1580.90
+16,uttarakhand,2014,1287.50,1580.90
+16,uttarakhand,2015,1247.80,1580.90
+16,uttarakhand,2016,1308.60,1580.90
+16,uttarakhand,2017,1475.80,-1
+16,uttarakhand,2018,1392.30,-1
+16,uttarakhand,2019,1378.8,-1
+16,uttarakhand,2020,1373,-1
+17,assam,2018,1766.60,-1
+17,assam,2019,2127.7,-1
+17,assam,2020,2364.8,-1
+17,assam and meghalaya,2001,2260.10,-1
+17,assam and meghalaya,2002,2530.40,-1
+17,assam and meghalaya,2003,2835.10,-1
+17,assam and meghalaya,2004,2890.90,-1
+17,assam and meghalaya,2005,2314.80,-1
+17,assam and meghalaya,2006,1777.40,-1
+17,assam and meghalaya,2007,2414.60,-1
+17,assam and meghalaya,2008,2271.20,-1
+17,assam and meghalaya,2009,1863.00,2802.00
+17,assam and meghalaya,2010,2498.70,2898.20
+17,assam and meghalaya,2011,1758.30,2624.90
+17,assam and meghalaya,2012,2321.30,2624.90
+17,assam and meghalaya,2013,1811.60,2624.90
+17,assam and meghalaya,2014,2171.90,2624.90
+17,assam and meghalaya,2015,2508.70,2624.90
+17,assam and meghalaya,2016,2266.70,2624.90
+17,meghalaya,2017,4472.30,-1
+17,meghalaya,2018,2344.30,-1
+18,himachal pradesh,2001,1102.50,-1
+18,himachal pradesh,2002,1075.50,-1
+18,himachal pradesh,2003,1268.90,-1
+18,himachal pradesh,2004,766.40,-1
+18,himachal pradesh,2005,996.40,-1
+18,himachal pradesh,2006,895.80,-1
+18,himachal pradesh,2007,862.50,-1
+18,himachal pradesh,2008,1048.90,-1
+18,himachal pradesh,2009,805.70,1323.90
+18,himachal pradesh,2010,1227.90,1323.70
+18,himachal pradesh,2011,1051.80,1373.90
+18,himachal pradesh,2012,1035.00,1373.90
+18,himachal pradesh,2013,1217.10,1373.90
+18,himachal pradesh,2014,1019.90,1373.90
+18,himachal pradesh,2015,1222.40,1373.90
+18,himachal pradesh,2016,921.50,1373.90
+18,himachal pradesh,2017,1182.20,-1
+18,himachal pradesh,2018,1182.20,-1
+18,himachal pradesh,2019,1218,-1
+18,himachal pradesh,2020,1052,-1
+19,kerala,2001,2910.60,-1
+19,kerala,2002,2457.30,-1
+19,kerala,2003,2275.80,-1
+19,kerala,2004,2911.30,-1
+19,kerala,2005,3151.00,-1
+19,kerala,2006,3297.70,-1
+19,kerala,2007,3919.50,-1
+19,kerala,2008,2534.20,-1
+19,kerala,2009,2815.90,3097.50
+19,kerala,2010,3142.00,3094.90
+19,kerala,2011,3041.60,2924.30
+19,kerala,2012,2187.60,2923.40
+19,kerala,2013,3255.50,2923.40
+19,kerala,2014,3046.60,2924.30
+19,kerala,2015,2601.40,2924.30
+19,kerala,2016,1870.80,2924.30
+19,kerala,2017,2664.80,-1
+19,kerala,2018,3518.70,-1
+19,kerala,2019,3119.2,-1
+19,kerala,2020,2989.7,-1
+20,telangana,2001,896.00,-1
+20,telangana,2002,767.70,-1
+20,telangana,2003,1006.70,-1
+20,telangana,2004,761.70,-1
+20,telangana,2005,1230.80,-1
+20,telangana,2006,1044.60,-1
+20,telangana,2007,902.60,-1
+20,telangana,2008,998.00,-1
+20,telangana,2009,665.80,942.80
+20,telangana,2010,1248.90,941.70
+20,telangana,2011,739.60,942.60
+20,telangana,2012,972.70,942.60
+20,telangana,2013,1272.00,942.60
+20,telangana,2014,685.5**,942.6**
+20,telangana,2015,748.00,942.60
+20,telangana,2016,1043.40,942.60
+20,telangana,2017,815.70,-1.00
+20,telangana,2018,845.90,-1.00
+20,telangana,2019,1031.9,-1
+20,telangana,2020,1350.2,-1

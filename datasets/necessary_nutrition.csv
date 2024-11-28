@@ -1,0 +1,16 @@
+nutrient,daily_requirement,description
+protein,50.0,essential for growth and repair of tissues
+carbohydrates,300.0,primary source of energy
+total fat,70.0,required for energy and cell function
+saturated fat,20.0,should be limited due to health concerns
+fiber,25.0,important for digestive health
+sugar,90.0,should be limited to prevent health issues
+vitamin a,900.0,important for vision and immune function
+vitamin c,90.0,necessary for the growth and repair of tissues
+calcium,1000.0,essential for bone health
+iron,18.0,required for blood production
+potassium,4700.0,helps maintain normal fluid balance
+magnesium,400.0,important for muscle and nerve function
+zinc,11.0,supports immune system function
+vitamin d,20.0,important for bone health
+vitamin b12,2.4,essential for nerve function and blood formation
